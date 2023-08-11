@@ -2,7 +2,6 @@
 
 Conclusão: O Engenheiro de software é responsável por estimar e prever resultados de um projeto, como uma funcionalidade pode e deve ser aplicada a um projeto, levando em consideração as necessidades e adaptações (trade-offs). A diferença principal entre programação e engenharia de software é o planejamento estratégico por trás das linhas de código.
 
-- 
 
 "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
 
