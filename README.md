@@ -1,2 +1,2 @@
 # bertoti
-Repositório destinado aos desafios da disciplina Engenharia de Software - Prof. Giuliano Bertoti
+Repositório destinado aos desafios das disciplinas do Professor Giuliano Bertoti.
