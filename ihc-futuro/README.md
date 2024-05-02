@@ -14,4 +14,7 @@ Este projeto utiliza as seguintes dependências:
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot): Uma biblioteca Python para desenvolver bots Telegram.
 - [python-dotenv](https://github.com/theskumar/python-dotenv): Uma biblioteca Python para carregar variáveis de ambiente de um arquivo `.env`.
 
+## Bot em execução
+![](telegramBot/bot.gif)
+
 
