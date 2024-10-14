@@ -5,6 +5,7 @@ import br.com.abner.view.Observer;
 import java.util.ArrayList;
 import java.util.List;
 import br.com.abner.util.Observable;
+
 public class TaskModel implements Observable {
     private List<TaskComponent> tasks = new ArrayList<>();
     private List<Observer> observers = new ArrayList<>();
