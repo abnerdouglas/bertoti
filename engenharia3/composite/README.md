@@ -1,2 +1,2 @@
 ## Diagrama de classes UML
-![Arquivo uml](uml.png)
+![Arquivo uml](composite.png)

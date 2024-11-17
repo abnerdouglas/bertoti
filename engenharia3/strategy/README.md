@@ -1,2 +1,2 @@
 ## Diagrama de Classes UML
-![Arquivo UML](UML.png)
+![Arquivo UML](strategy.png)
